@@ -1,0 +1,3 @@
+C:/Users/purpl/Desktop/Internet Explorer/ВУЗ/Компьютерная графика/Лаб2/OpenGLrememberProj/CMakeFiles/Lights_and_textures.dir
+C:/Users/purpl/Desktop/Internet Explorer/ВУЗ/Компьютерная графика/Лаб2/OpenGLrememberProj/CMakeFiles/ALL_BUILD.dir
+C:/Users/purpl/Desktop/Internet Explorer/ВУЗ/Компьютерная графика/Лаб2/OpenGLrememberProj/CMakeFiles/ZERO_CHECK.dir

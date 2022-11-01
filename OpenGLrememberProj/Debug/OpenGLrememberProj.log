@@ -1,0 +1,13 @@
+﻿  Render.cpp
+C:\Users\purpl\Desktop\Internet Explorer\ВУЗ\Компьютерная графика\Лаб2\OpenGLrememberProj\SideQuads.h(23,27): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\purpl\Desktop\Internet Explorer\ВУЗ\Компьютерная графика\Лаб2\OpenGLrememberProj\SideQuads.h(24,27): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\purpl\Desktop\Internet Explorer\ВУЗ\Компьютерная графика\Лаб2\OpenGLrememberProj\SideQuads.h(25,28): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\purpl\Desktop\Internet Explorer\ВУЗ\Компьютерная графика\Лаб2\OpenGLrememberProj\SideQuads.h(26,28): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\purpl\Desktop\Internet Explorer\ВУЗ\Компьютерная графика\Лаб2\OpenGLrememberProj\SideQuads.h(27,27): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\purpl\Desktop\Internet Explorer\ВУЗ\Компьютерная графика\Лаб2\OpenGLrememberProj\SideQuads.h(28,26): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\purpl\Desktop\Internet Explorer\ВУЗ\Компьютерная графика\Лаб2\OpenGLrememberProj\SideQuads.h(29,26): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\purpl\Desktop\Internet Explorer\ВУЗ\Компьютерная графика\Лаб2\OpenGLrememberProj\SideQuads.h(30,26): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\purpl\Desktop\Internet Explorer\ВУЗ\Компьютерная графика\Лаб2\OpenGLrememberProj\Render.cpp(116,31): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\purpl\Desktop\Internet Explorer\ВУЗ\Компьютерная графика\Лаб2\OpenGLrememberProj\Render.cpp(116,40): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\purpl\Desktop\Internet Explorer\ВУЗ\Компьютерная графика\Лаб2\OpenGLrememberProj\Render.cpp(116,49): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+  OpenGLrememberProj.vcxproj -> C:\Users\purpl\Desktop\Internet Explorer\ВУЗ\Компьютерная графика\Лаб2\Debug\OpenGLrememberProj.exe
