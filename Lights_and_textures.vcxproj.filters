@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\purpl\Desktop\Internet Explorer\ВУЗ\Компьютерная графика\Лаб2\CMake_Lighting\Light_and_textures\laba4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\purpl\Desktop\Internet Explorer\ВУЗ\Компьютерная графика\Лаб2\CMake_Lighting\Light_and_textures\readBMP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\purpl\Desktop\Internet Explorer\ВУЗ\Компьютерная графика\Лаб2\CMake_Lighting\Light_and_textures\GL_movement.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\purpl\Desktop\Internet Explorer\ВУЗ\Компьютерная графика\Лаб2\CMake_Lighting\Light_and_textures\readBMP.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CMake_Lighting\Light_and_textures\glut.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\purpl\Desktop\Internet Explorer\ВУЗ\Компьютерная графика\Лаб2\CMake_Lighting\CatsHead.bmp">
+      <Filter>Images for textures</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\purpl\Desktop\Internet Explorer\ВУЗ\Компьютерная графика\Лаб2\CMake_Lighting\List.bmp">
+      <Filter>Images for textures</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\purpl\Desktop\Internet Explorer\ВУЗ\Компьютерная графика\Лаб2\CMake_Lighting\CMakeLists.txt">
+      <Filter>Other Files</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{B483719C-0E89-311F-86CA-B2A5446D269D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Images for textures">
+      <UniqueIdentifier>{D5511272-C0CB-3D3B-9371-0744F7898960}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Other Files">
+      <UniqueIdentifier>{EEEDD691-0D37-3B60-B107-3EC864DF7338}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{10ECB1A9-8EBF-30E3-8254-18D71775BEB1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
