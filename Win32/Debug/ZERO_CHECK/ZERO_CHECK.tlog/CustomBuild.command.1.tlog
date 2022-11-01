@@ -1,0 +1,10 @@
+^C:\USERS\PURPL\DESKTOP\INTERNET EXPLORER\ВУЗ\КОМПЬЮТЕРНАЯ ГРАФИКА\ЛАБ2\CMAKEFILES\E4A4A4B9C22BC8A47A8F90164BCAAAAC\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/purpl/Desktop/Internet Explorer/ВУЗ/Компьютерная графика/Лаб2/CMake_Lighting" "-BC:/Users/purpl/Desktop/Internet Explorer/ВУЗ/Компьютерная графика/Лаб2" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/purpl/Desktop/Internet Explorer/ВУЗ/Компьютерная графика/Лаб2/Lights_and_textures.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
