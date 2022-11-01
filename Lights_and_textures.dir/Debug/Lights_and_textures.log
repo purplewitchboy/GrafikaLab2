@@ -1,0 +1,27 @@
+﻿  Copying the texture file CatsHead.bmp
+  Copying the texture file List.bmp
+  Building Custom Rule C:/Users/purpl/Desktop/Internet Explorer/ВУЗ/Компьютерная графика/Лаб2/CMake_Lighting/CMakeLists.txt
+  laba4.cpp
+  readBMP.cpp
+C:\Users\purpl\Desktop\Internet Explorer\ВУЗ\Компьютерная графика\Лаб2\CMake_Lighting\Light_and_textures\readBMP.cpp(17,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Создание кода...
+C:\Users\purpl\Desktop\Internet Explorer\ВУЗ\Компьютерная графика\Лаб2\CMake_Lighting\Light_and_textures\GL_movement.h(99): warning C4715: MyPoint::Normalize_Self: значение возвращается не при всех путях выполнения
+laba4.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__glutInitWindowPosition@8 в функции _main.
+laba4.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__glutInitWindowSize@8 в функции _main.
+laba4.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__glutInitDisplayMode@4 в функции _main.
+laba4.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__glutMainLoop@0 в функции _main.
+laba4.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__glutPostRedisplay@0 в функции "void __cdecl TimerCallback(int)" (?TimerCallback@@YAXH@Z).
+laba4.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__glutSwapBuffers@0 в функции "void __cdecl Draw(void)" (?Draw@@YAXXZ).
+laba4.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__glutTimerFunc@12 в функции "void __cdecl Draw(void)" (?Draw@@YAXXZ).
+laba4.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__glutKeyboardFunc@4 в функции _main.
+laba4.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__glutSpecialFunc@4 в функции _main.
+laba4.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__glutReshapeFunc@4 в функции _main.
+laba4.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__glutDisplayFunc@4 в функции _main.
+laba4.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__glutMouseFunc@4 в функции _main.
+laba4.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__glutMotionFunc@4 в функции _main.
+laba4.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__glutPassiveMotionFunc@4 в функции _main.
+laba4.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__glutSolidSphere@16 в функции "void __cdecl DrawModel(void)" (?DrawModel@@YAXXZ).
+laba4.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__glutSolidTorus@24 в функции "void __cdecl DrawModel(void)" (?DrawModel@@YAXXZ).
+laba4.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp____glutInitWithExit@12 в функции _glutInit_ATEXIT_HACK@8.
+laba4.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp____glutCreateWindowWithExit@8 в функции _glutCreateWindow_ATEXIT_HACK@4.
+C:\Users\purpl\Desktop\Internet Explorer\ВУЗ\Компьютерная графика\Лаб2\Debug\Lights_and_textures.exe : fatal error LNK1120: неразрешенных внешних элементов: 18
